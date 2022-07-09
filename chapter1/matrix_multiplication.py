@@ -1,3 +1,10 @@
+"""
+Problem : 두 개의 nxn 행렬을 곱하여라.
+Input : 양수 n, 2차원 정수 배열 A, B (두 배열의 모든 column과 row는 1 ~ n까지의 index)
+Output : A와 B의 곱의 결과인 2차원 정수 배열 C (모든 column과 row는 1 ~ n까지의 index)
+"""
+
+
 def matrix_multiplication(n: int, A: list, B: list, C: list):
     for i in range(0, n):
         for j in range(0, n):
