@@ -1,5 +1,5 @@
 # 💻 Python과 함께하는 알고리즘
-[Foundations of Algorithms (by Richard E. Neapolitan)](https://www.amazon.com/Foundations-Algorithms-Richard-Neapolitan/dp/1284049191)에 예제로 나오는 의사코드 (pseudocode)를 **Python**으로 구현해 보았습니다.
+[Foundations of Algorithms (by Richard E. Neapolitan)](https://www.amazon.com/Foundations-Algorithms-Richard-Neapolitan/dp/1284049191)에서 의사코드 (pseudocode)로 구현한 알고리즘을 **Python**으로 재구현 했습니다.
 
 ## 알고리즘 목록
 - 순차탐색 (_Sequential Search_)
