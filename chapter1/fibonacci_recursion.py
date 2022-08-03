@@ -15,4 +15,3 @@ def fibonacci(n: int):
 if __name__ == "__main__":
     for i in range(1, 11):
         print("fibonacci(%d) - %d" % (i, fibonacci(i)))
-        
